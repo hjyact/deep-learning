@@ -1,0 +1,6 @@
+[submodule "transformer-pytorch"]
+	path = transformer-pytorch
+	url = https://github.com/hjyact/transformer-pytorch.git
+[submodule "pytorch"]
+	path = pytorch
+	url = https://github.com/hjyact/pytorch.git
